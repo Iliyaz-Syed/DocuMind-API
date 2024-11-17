@@ -1,0 +1,44 @@
+{
+  "compliances_file1": [
+    "Based on the provided context, here are the new compliances mentioned:",
+    "",
+    "1. Periodic Data Protection Impact Assessment:",
+    "\t* Description of rights of Data Principals and purpose of processing their personal data",
+    "\t* Assessment and management of risk to the rights of Data Principals",
+    "2. Independent data audit by an appointed auditor to evaluate compliance of Significant Data Fiduciaries",
+    "3. Registration of Consent Manager and conditions relating thereto",
+    "4. Accountability and obligations of Consent Manager under sub-section (8) of section 6"
+  ],
+  "compliances_file2": [
+    "Based on the provided context, here are the new compliances listed:",
+    "",
+    "1. Undertake a cyber risk assessment exercise (Section 13) ",
+    "\t* This includes assessing risks related to launching new products/services/technologies or major changes to infrastructure/processes.",
+    "\t* Action points from this assessment must be implemented under the oversight of the Chief Information Security Officer (CISO) or equivalent executive.",
+    "2. Maintain an inventory of key roles, information assets, critical functions, processes, and third-party service providers (Section III, 14(a))",
+    "3. Classify and document levels of usage, criticality, and business value for these inventoried items (Section III, 14(a))",
+    "4. Create and maintain a complete process flow diagram of network resources, inter-connections, dependencies, and data flows with other information assets (Section III, 14(b))",
+    "",
+    "These are the new compliances mentioned in the document, as they were not explicitly stated in any previous instructions or regulations."
+  ],
+  "file1": "dpdp.pdf",
+  "file2": "md.pdf",
+  "new_compliances_for_bank": [
+    "Based on the provided context, here are the new compliances listed:",
+    "1. Undertake a cyber risk assessment exercise (Section 13) ",
+    "\t* This includes assessing risks related to launching new products/services/technologies or major changes to infrastructure/processes.",
+    "\t* Action points from this assessment must be implemented under the oversight of the Chief Information Security Officer (CISO) or equivalent executive.",
+    "2. Maintain an inventory of key roles, information assets, critical functions, processes, and third-party service providers (Section III, 14(a))",
+    "3. Classify and document levels of usage, criticality, and business value for these inventoried items (Section III, 14(a))",
+    "4. Create and maintain a complete process flow diagram of network resources, inter-connections, dependencies, and data flows with other information assets (Section III, 14(b))",
+    "These are the new compliances mentioned in the document, as they were not explicitly stated in any previous instructions or regulations."
+  ],
+  "source_documents_file1": [
+    "Unknown: taken or to be taken in pursuance of any power under the provisions of this Act.\n40. (1) The Central Government may, by notification, and subject to the condition of\nprevious publication, make rules not inconsistent with the provisions of this Act, to carry\nout the purposes of this Act.\n(2) In particular and without prejudice to the generality of the foregoing power, such\nrules may provide for all or any of the following matters, namely:\u2014\n(a) the manner in which the notice given by the Data Fiduciary to a Data Principal\nshall inform her, under sub-section (1) of section 5;\n(b) the manner in which the notice given by the Data Fiduciary to a Data Principal\nshall inform her, under sub-section (2) of section 5;\n(c) the manner of accountability and the obligations of Consent Manager under\nsub-section (8) of section 6;\n(d) the manner of registration of Consent Manager and the conditions relating\nthereto, under sub-section (9) of section 6;",
+    "Unknown: (b) appoint an independent data auditor to carry out data audit, who shall\nevaluate the compliance of the Significant Data Fiduciary in accordance with the\nprovisions of this Act; and\n(c) undertake the following other measures, namely:\u2014\n(i) periodic Data Protection Impact Assessment, which shall be a process\ncomprising a description of the rights of Data Principals and the purpose of\nprocessing of their personal data, assessment and management of the risk to\nthe rights of the Data Principals, and such other matters regarding such process\nas may be prescribed;\n(ii) periodic audit; and\n(iii) such other measures, consistent with the provisions of this Act, as\nmay be prescribed.\nCHAPTER III\nRIGHTS  AND DUTIES  OF DATA PRINCIPAL\n11. (1) The Data Principal shall have the right to obtain from the Data Fiduciary to\nwhom she has previously given consent, including consent as referred to in clause (a) of\nsection 7 (hereinafter referred to as the said Data Fiduciary), for processing of personal"
+  ],
+  "source_documents_file2": [
+    "Unknown: 3. The Directions shall come into effect on the day they are placed on the official website \nof the RBI. In order to provide adequate time to put in place the necessary compliance \nstructure, a phased implementation approach1 is prescribed as under \u2013 \nRegulated Entity Timeline \nLarge non-bank PSOs2 April 1, 2025 \nMedium non-bank PSOs3 April 1, 2026 \nSmall non-bank PSOs4 April 1, 2028 \n \n1The timelines prescribed in the instructions issued earlier by RBI shall continue to be applicable as hitherto.\n2For the purpose of these Directions, Clearing Corporation of India Limited (CCIL), National Payments\nCorporation of India (NPCI), NPCI Bharat Bill Pay Limited, Card Payment Networks, Non-bank ATM Networks,\nWhite Label ATM Operators (WLAOs), Large PPI Issuers, Trade Receivables Discounting System (TReDS)\nOperators, Bharat Bill Payment Operating Units (BBPOUs) and Payment Aggregators (PAs) are considered as\nlarge non-bank PSOs.",
+    "Unknown: report is available. \n13. The PSO shall, undertake a cyber risk assessment exercise relating to launch of new \nproduct / services / technologies or undertaking major changes to infrastructure or \nprocesses of existing product / services. Action points emanating from such assessment \nshall be implemented under the oversight of the CISO or equivalent executive. \n \nSection III \nBaseline Information Security Measures / Controls \n \n14. Inventory Management  \n(a) The PSO shall maintain a record of all the key roles, information assets (applications, \ndata, infrastructure, personnel, services, etc.), critical functions, processes and third-\nparty service providers, and classify and document their levels of usage, criticality \nand business value.  \n(b) A complete process flow diagram of network resources, inter-connections and \ndependencies, and data flows with other information assets, including any other third-\nparty systems, shall be created and maintained."
+  ]
+}
